@@ -26,7 +26,7 @@ https://docs.soliditylang.org/en/v0.8.13/security-considerations.html#security-c
 
 
 ### Реализация
-Hardhat 2.9.1;
+Hardhat 2.9.1;  
 Solidity 0.8.9;
 
 ### Решение
